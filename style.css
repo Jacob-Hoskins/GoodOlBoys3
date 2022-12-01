@@ -89,13 +89,15 @@ a:visited {
 }
 
 @media only screen and (max-width: 768px) {
-  nav {
+  .nav-pages-div {
     z-index: 1;
   }
 
+  .grabber-img {
+    width: 100vw;
+  }
   .grabber-cards {
     display: flex;
-    flex-direction: column;
     justify-content: space-evenly;
   }
 }
