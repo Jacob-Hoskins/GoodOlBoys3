@@ -103,5 +103,6 @@ a:visited {
   .grabber-cards {
     display: flex;
     justify-content: space-evenly;
+    width: 100vw;
   }
 }
