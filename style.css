@@ -186,7 +186,7 @@ a:visited {
   }
 
   .grabber-img {
-    width: 100%;
+    width: 100vw;
   }
   .grabber-cards {
     display: flex;
