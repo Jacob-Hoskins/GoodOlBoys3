@@ -87,3 +87,15 @@ a:visited {
   margin-top: 5vw;
   color: white;
 }
+
+@media only screen and (max-width: 768px) {
+  nav {
+    z-index: 1;
+  }
+
+  .grabber-cards {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+  }
+}
