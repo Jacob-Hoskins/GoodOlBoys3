@@ -89,12 +89,16 @@ a:visited {
 }
 
 @media only screen and (max-width: 768px) {
+  .nav-pages {
+    border-right: 1.7px solid black;
+  }
+
   .nav-pages-div {
     z-index: 1;
   }
 
   .grabber-img {
-    width: 100vw;
+    width: 100%;
   }
   .grabber-cards {
     display: flex;
