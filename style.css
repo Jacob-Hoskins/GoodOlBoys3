@@ -201,10 +201,14 @@ a:visited {
     width: 100%;
   }
 
-  .mobile-logo{
+  .mobile-logo {
     margin: auto;
-    width: 20vw;
-    height: 20vh;
+    width: 25vw;
+    height: 25vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 47%;
   }
 
   .main-body {
