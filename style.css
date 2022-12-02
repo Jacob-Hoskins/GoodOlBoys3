@@ -203,5 +203,14 @@ a:visited {
   .why-us {
     width: 100vw;
     text-align: center;
+    display: flex;
+    justify-content: center;
+  }
+
+  .contact-body {
+    margin-top: 25px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
   }
 }
