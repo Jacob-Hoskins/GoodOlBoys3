@@ -313,4 +313,14 @@ a:visited {
     display: flex;
     flex-direction: column;
   }
+
+  .member-desc {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .team-picture {
+    width: 25vw;
+    height: 25vh;
+  }
 }
