@@ -402,4 +402,8 @@ a:visited {
     flex-direction: column;
     width: 90vw;
   }
+
+  .card {
+    width: 90vw;
+  }
 }
