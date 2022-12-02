@@ -186,6 +186,7 @@ a:visited {
   }
 
   .nav-pages-div {
+    text-align: center;
     z-index: 1;
     font-size: 13px;
   }
