@@ -341,4 +341,8 @@ a:visited {
   .social-contact {
     font-size: 18px;
   }
+
+  .social-div {
+    width: 95vw;
+  }
 }
