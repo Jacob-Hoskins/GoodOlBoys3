@@ -330,6 +330,7 @@ a:visited {
   .contact-div {
     width: 75vw;
     font-size: 20px;
+    margin: auto;
     margin-top: 15vh;
     display: flex;
     flex-direction: column;
