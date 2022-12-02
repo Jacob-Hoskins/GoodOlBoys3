@@ -92,6 +92,10 @@ a:visited {
   color: white;
 }
 
+* {
+  overflow-x: none;
+}
+
 @media only screen and (max-width: 3000px) {
   a {
     text-decoration: none;
@@ -287,6 +291,10 @@ a:visited {
 }
 
 @media only screen and (max-width: 768px) {
+  * {
+    overflow-x: none;
+  }
+
   .nav-pages {
     border-right: 1.5px solid black;
   }
