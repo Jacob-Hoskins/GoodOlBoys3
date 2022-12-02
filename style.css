@@ -199,6 +199,12 @@ a:visited {
   .grabber-img {
     width: 100%;
   }
+
+  .card-img {
+    width: 35vw;
+    height: 30vh;
+  }
+
   .grabber-cards {
     display: flex;
     justify-content: space-evenly;
@@ -207,12 +213,12 @@ a:visited {
 
   .mobile-logo {
     margin: auto;
-    width: 35vw;
-    height: 25vh;
+    width: 40vw;
+    height: 30vh;
     display: flex;
     align-items: center;
     justify-content: center;
-    border-radius: 47%;
+    border-radius: 50%;
   }
 
   .main-body {
