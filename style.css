@@ -306,4 +306,11 @@ a:visited {
     align-items: center;
     margin-bottom: 10px;
   }
+
+  /* Team page */
+
+  .team {
+    display: flex;
+    flex-direction: column;
+  }
 }
