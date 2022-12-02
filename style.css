@@ -181,6 +181,10 @@ a:visited {
     border-right: 1.7px solid black;
   }
 
+  .logo {
+    display: none;
+  }
+
   .nav-pages-div {
     z-index: 1;
     font-size: 13px;
@@ -216,5 +220,6 @@ a:visited {
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    margin-bottom: 10px;
   }
 }
