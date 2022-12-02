@@ -389,4 +389,11 @@ a:visited {
   .social-div {
     width: 95vw;
   }
+
+  /* services page */
+  .service-cards {
+    display: flex;
+    flex-direction: row;
+    width: 100vw;
+  }
 }
