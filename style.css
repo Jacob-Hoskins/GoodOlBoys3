@@ -191,7 +191,7 @@ a:visited {
   .grabber-cards {
     display: flex;
     justify-content: space-evenly;
-    width: 125%;
+    width: 135%;
   }
 
   .main-body {
