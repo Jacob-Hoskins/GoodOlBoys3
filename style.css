@@ -393,7 +393,7 @@ a:visited {
   /* services page */
   .service-cards {
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     width: 100vw;
   }
 }
