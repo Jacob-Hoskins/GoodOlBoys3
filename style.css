@@ -330,5 +330,6 @@ a:visited {
   .contact-div {
     width: 75vw;
     font-size: 20px;
+    margin: auto;
   }
 }
