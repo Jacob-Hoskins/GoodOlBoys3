@@ -396,4 +396,10 @@ a:visited {
     flex-direction: column;
     width: 100vw;
   }
+
+  .card-row {
+    display: flex;
+    flex-direction: column;
+    width: 90vw;
+  }
 }
