@@ -191,13 +191,13 @@ a:visited {
   .grabber-cards {
     display: flex;
     justify-content: space-evenly;
-    width: 135%;
+    width: 100%;
   }
 
   .main-body {
     display: flex;
     flex-direction: column;
-    width: 135%;
+    width: 100%;
   }
 
   .why-us {
