@@ -240,6 +240,50 @@ a:visited {
   .contact-info {
     text-shadow: 2px 2px black;
   }
+
+  /* Services Page */
+
+  .service-div {
+    margin-top: 25vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .service-header {
+    font-size: 28px;
+    color: rgb(0, 195, 255);
+    text-shadow: 3px 3px black;
+    text-decoration: none;
+    font-style: italic;
+  }
+
+  .service-cards {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .cards-row {
+    display: flex;
+  }
+
+  .card {
+    margin-left: 20vw;
+    margin-right: 20vw;
+    margin-bottom: 20vh;
+  }
+
+  .card-text {
+    width: 15vw;
+  }
+
+  .header-font {
+    font-size: 30px;
+    margin-bottom: 15vh;
+    text-decoration: underline;
+    font-style: italic;
+  }
 }
 
 @media only screen and (max-width: 768px) {
