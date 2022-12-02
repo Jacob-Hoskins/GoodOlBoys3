@@ -325,4 +325,10 @@ a:visited {
     width: 45vw;
     height: 45vh;
   }
+
+  /* Contact page */
+  .contact-div {
+    width: 75vw;
+    font-size: 20px;
+  }
 }
