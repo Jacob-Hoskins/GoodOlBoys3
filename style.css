@@ -199,4 +199,8 @@ a:visited {
     flex-direction: column;
     width: 135%;
   }
+
+  .why-us {
+    width: 100vw;
+  }
 }
