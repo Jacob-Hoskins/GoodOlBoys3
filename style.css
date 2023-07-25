@@ -92,6 +92,27 @@ a:visited {
   color: white;
 }
 
+.facebook-logo {
+  width: 9vw;
+  height: 10vh;
+  margin-top: 4vh;
+}
+
+.grabber-img {
+  object-fit: cover;
+}
+
+.pictures {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.gallery-picture {
+  width: 95vw;
+  height: 10%;
+}
+
 @media only screen and (max-width: 3000px) {
   a {
     text-decoration: none;
