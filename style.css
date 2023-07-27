@@ -287,12 +287,13 @@ a:visited {
 
   .cards-row {
     display: flex;
+    flex-direction: column;
   }
 
   .card {
     margin-left: 20vw;
     margin-right: 20vw;
-    margin-bottom: 20vh;
+    margin-bottom: 2vh;
   }
 
   .card-text {
