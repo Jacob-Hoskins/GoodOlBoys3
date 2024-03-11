@@ -114,6 +114,10 @@ a:visited {
   height: 10%;
 }
 
+.grabber-img-large-device{
+  display: none;
+}
+
 @media only screen and (max-width: 3000px) {
   a {
     text-decoration: none;
@@ -326,7 +330,36 @@ a:visited {
   }
 }
 
+/* @media screen and (min-width: 768px) {
+  .grabber-img-large-device{
+    display: block;
+  }
+
+  .grabber-img-small-device{
+    display: none;
+  }
+} */
+
+@media only screen and (min-width: 800px){
+  .grabber-img-large-device{
+    display: block;
+  }
+
+  .grabber-img-small-device{
+    display: none;
+  }
+}
+
 @media only screen and (max-width: 768px) {
+
+  /* .grabber-img-large-device{
+    display: block;
+  }
+
+  .grabber-img-small-device{
+    display: none;
+  } */
+
   .nav-pages {
     border-right: 1.5px solid black;
   }
